@@ -1,0 +1,72 @@
+body{
+  background-image: url("https://images.unsplash.com/photo-1559533077-4dc3e9bd43f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80");
+  color: white;
+  font-family: sans-serif, poppins;
+  height: 100%;
+  width: 100%;
+}
+
+/*---Container styles start here---*/
+
+.container{
+ height: 500px;
+ width: 600px;
+ background-color:black;
+ display: flex;
+ position: absolute;
+ margin-left: 100px;
+margin-top: 2rem;
+opacity: 90%;
+}
+
+/*---Content styles comence here---*/
+
+.head{
+  margin-left: 100px;
+}
+
+.explanation{
+  margin-left: 100px;
+
+}
+
+/*---Form styles commence also here---*/
+
+fieldset{
+  border: none;
+  margin-left: 100px;
+}
+
+label{
+  display: block;
+  padding-top: 20px;
+}
+
+input,textarea{
+  width: 400px;
+  height: 30px;
+  margin-top: 5px;
+  border: none;
+}
+
+textarea{
+  height: 70px;
+}
+
+.submit{
+  margin-left: 100px;
+  height: 40px;
+  width: 200px;
+  margin-top: 5px;
+  background-color: green;
+  font-size: 15px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.submit:hover{
+ background-color: white;
+ color: black;
+}

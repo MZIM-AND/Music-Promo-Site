@@ -1,0 +1,81 @@
+body{
+  background-image: url("https://images.unsplash.com/photo-1559448048-e7dc5ec38d64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80");
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-family: sans-serif, poppins;
+}
+
+/*---Content styles commence from here---*/
+
+.head{
+  margin-left: 20px;
+  margin-top: 5rem;
+}
+
+.explanation{
+  margin-left: 20px;
+}
+
+/*---Button styles here-----*/
+.visit{
+  margin-left: 20px;
+  width: 30%;
+  height: 2rem;
+  font-size: 19px;
+  background-color: rgb(61, 197, 152);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.visit:hover{
+  background-color: white;
+  color:black;
+}
+
+/*---Content tags proceed from here----*/
+
+.paragraph1{
+  text-align: center;
+  margin-left: 100px;
+  font-size: 15px;
+  margin-top: 2rem;
+  margin-right: 20px;
+}
+
+.paragraph2{
+  text-align: center;
+  margin-left: 100px;
+  font-size: 15px;
+  margin-right: 20px;
+}
+
+.head2{
+  text-align: center;
+  padding-top: 1rem;
+}
+
+/*---Add a container to classify between the vision anddd mission of the business*/
+
+.container{
+  height: 200px;
+  width: 500px;
+  background-color: black;
+  margin: 0 auto;
+  opacity: 90%;
+}
+
+.container1{
+  height: 200px;
+  width: 500px;
+  background-color: black;
+  margin: 0 auto;
+  opacity: 90%;
+  margin-top: 2rem;
+}
+
+
+
