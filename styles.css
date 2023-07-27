@@ -159,6 +159,20 @@ h7{
   margin-right: 15px;
 }
 
+/*---Footr content styles here---*/
+footer{
+  background-color: black;
+  display: block;
+  text-align: center;
+  opacity: 90%;
+}
+
+footer,a{
+  color: white;
+  text-decoration: none;
+  font-size: medium;
+}
+
 
 
 
